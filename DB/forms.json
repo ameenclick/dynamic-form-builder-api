@@ -1,0 +1,488 @@
+[{
+  "_id": {
+    "$oid": "63a57519fe6e751200695eb2"
+  },
+  "stack": [
+    {
+      "title": "Contact Form",
+      "description": "",
+      "grid": 1,
+      "fields": [
+        {
+          "tag": "input",
+          "label": "Full Name",
+          "placeholder": "Placeholder",
+          "columns": "col-4",
+          "colSize": "form-control",
+          "type": "text",
+          "required": false,
+          "icon": {
+            "span": "prefix",
+            "svg": null
+          },
+          "fontSize": "fs-5"
+        },
+        {
+          "tag": "textarea",
+          "label": "Address",
+          "placeholder": "Placeholder",
+          "columns": "col-4",
+          "rows": 2,
+          "colSize": "form-control",
+          "type": "text",
+          "required": false
+        },
+        {
+          "tag": "radio",
+          "label": "Gender",
+          "inline": "form-check-inline",
+          "choices": [
+            "Male",
+            "Female"
+          ],
+          "required": false,
+          "checked": false
+        }
+      ],
+      "version": "143691c1ab83e2396cec42af9bd289ff2cdd465c"
+    },
+    {
+      "title": "Contact Form",
+      "description": "",
+      "grid": 1,
+      "fields": [
+        {
+          "tag": "input",
+          "label": "Full Name",
+          "placeholder": "Placeholder",
+          "columns": "col-4",
+          "colSize": "form-control",
+          "type": "text",
+          "required": false,
+          "icon": {
+            "span": "prefix",
+            "svg": null
+          },
+          "fontSize": "fs-5"
+        },
+        {
+          "tag": "radio",
+          "label": "Gender",
+          "inline": "form-check-inline",
+          "choices": [
+            "Male",
+            "Female"
+          ],
+          "required": false,
+          "checked": false
+        },
+        {
+          "tag": "textarea",
+          "label": "Address",
+          "placeholder": "Placeholder",
+          "columns": "col-4",
+          "rows": 2,
+          "colSize": "form-control",
+          "type": "text",
+          "required": false
+        }
+      ],
+      "version": "9bf6f7e8ecd801f6b0ef9b0edaa13978f2aac5a3"
+    },
+    {
+      "title": "Contact Form",
+      "description": "",
+      "grid": 1,
+      "fields": [
+        {
+          "tag": "input",
+          "label": "Name",
+          "placeholder": "Placeholder",
+          "columns": "col-4",
+          "colSize": "form-control",
+          "type": "text",
+          "required": false,
+          "icon": {
+            "span": "prefix",
+            "svg": null
+          },
+          "fontSize": "fs-5"
+        },
+        {
+          "tag": "radio",
+          "label": "Gender",
+          "inline": "form-check-inline",
+          "choices": [
+            "Male",
+            "Female"
+          ],
+          "required": false,
+          "checked": false
+        },
+        {
+          "tag": "textarea",
+          "label": "Address",
+          "placeholder": "Placeholder",
+          "columns": "col-4",
+          "rows": 2,
+          "colSize": "form-control",
+          "type": "text",
+          "required": false
+        }
+      ],
+      "version": "7d9efd1b5bcf435da380894f05baaf9a14111cb2"
+    },
+    {
+      "title": "Contact Form",
+      "description": "",
+      "grid": 2,
+      "fields": [
+        {
+          "tag": "input",
+          "label": "Name",
+          "placeholder": "Placeholder",
+          "columns": "col-4",
+          "colSize": "form-control",
+          "type": "text",
+          "required": false,
+          "icon": {
+            "span": "prefix",
+            "svg": null
+          },
+          "fontSize": "fs-5"
+        },
+        {
+          "tag": "radio",
+          "label": "Gender",
+          "inline": "form-check-inline",
+          "choices": [
+            "Male",
+            "Female"
+          ],
+          "required": false,
+          "checked": false
+        },
+        {
+          "tag": "textarea",
+          "label": "Address",
+          "placeholder": "Placeholder",
+          "columns": "col-4",
+          "rows": 2,
+          "colSize": "form-control",
+          "type": "text",
+          "required": false
+        }
+      ],
+      "version": "b7e2b6192a6bb9db95857d8d0be45859d44da72a"
+    },
+    {
+      "title": "Contact Form",
+      "description": "",
+      "grid": 3,
+      "fields": [
+        {
+          "tag": "input",
+          "label": "Name",
+          "placeholder": "Placeholder",
+          "columns": "col-4",
+          "colSize": "form-control",
+          "type": "text",
+          "required": false,
+          "icon": {
+            "span": "prefix",
+            "svg": null
+          },
+          "fontSize": "fs-5"
+        },
+        {
+          "tag": "radio",
+          "label": "Gender",
+          "inline": "form-check-inline",
+          "choices": [
+            "Male",
+            "Female"
+          ],
+          "required": false,
+          "checked": false
+        },
+        {
+          "tag": "textarea",
+          "label": "Address",
+          "placeholder": "Placeholder",
+          "columns": "col-4",
+          "rows": 2,
+          "colSize": "form-control",
+          "type": "text",
+          "required": false
+        }
+      ],
+      "version": "d3355fb04dd1248f47733f6ceca288a1fbe4117c"
+    },
+    {
+      "title": "Contact Form",
+      "description": "",
+      "grid": 1,
+      "fields": [
+        {
+          "tag": "input",
+          "label": "Name",
+          "placeholder": "Placeholder",
+          "columns": "col-4",
+          "colSize": "form-control",
+          "type": "text",
+          "required": false,
+          "icon": {
+            "span": "prefix",
+            "svg": null
+          },
+          "fontSize": "fs-5"
+        },
+        {
+          "tag": "radio",
+          "label": "Gender",
+          "inline": "form-check-inline",
+          "choices": [
+            "Male",
+            "Female"
+          ],
+          "required": false,
+          "checked": false
+        },
+        {
+          "tag": "textarea",
+          "label": "Address",
+          "placeholder": "Placeholder",
+          "columns": "col-4",
+          "rows": 2,
+          "colSize": "form-control",
+          "type": "text",
+          "required": false
+        }
+      ],
+      "version": "7d9efd1b5bcf435da380894f05baaf9a14111cb2"
+    },
+    {
+      "title": "Contact Form",
+      "description": "",
+      "grid": 1,
+      "fields": [
+        {
+          "tag": "input",
+          "label": "Full Name",
+          "placeholder": "Placeholder",
+          "columns": "col-4",
+          "colSize": "form-control",
+          "type": "text",
+          "required": false,
+          "icon": {
+            "span": "prefix",
+            "svg": null
+          },
+          "fontSize": "fs-5"
+        },
+        {
+          "tag": "radio",
+          "label": "Gender",
+          "inline": "form-check-inline",
+          "choices": [
+            "Male",
+            "Female"
+          ],
+          "required": false,
+          "checked": false
+        },
+        {
+          "tag": "textarea",
+          "label": "Address",
+          "placeholder": "Placeholder",
+          "columns": "col-4",
+          "rows": 2,
+          "colSize": "form-control",
+          "type": "text",
+          "required": false
+        }
+      ],
+      "version": "9bf6f7e8ecd801f6b0ef9b0edaa13978f2aac5a3"
+    },
+    {
+      "title": "Contact Form",
+      "description": "",
+      "grid": 3,
+      "fields": [
+        {
+          "tag": "input",
+          "label": "Name",
+          "placeholder": "Placeholder",
+          "columns": "col-4",
+          "colSize": "form-control",
+          "type": "text",
+          "required": false,
+          "icon": {
+            "span": "prefix",
+            "svg": null
+          },
+          "fontSize": "fs-5"
+        },
+        {
+          "tag": "radio",
+          "label": "Gender",
+          "inline": "form-check-inline",
+          "choices": [
+            "Male",
+            "Female"
+          ],
+          "required": false,
+          "checked": false
+        },
+        {
+          "tag": "textarea",
+          "label": "Address",
+          "placeholder": "Placeholder",
+          "columns": "col-4",
+          "rows": 2,
+          "colSize": "form-control",
+          "type": "text",
+          "required": false
+        }
+      ],
+      "version": "d3355fb04dd1248f47733f6ceca288a1fbe4117c"
+    },
+    {
+      "title": "Contact Form",
+      "description": "",
+      "grid": 1,
+      "fields": [
+        {
+          "tag": "input",
+          "label": "Full Name",
+          "placeholder": "Placeholder",
+          "columns": "col-4",
+          "colSize": "form-control",
+          "type": "text",
+          "required": false,
+          "icon": {
+            "span": "prefix",
+            "svg": null
+          },
+          "fontSize": "fs-5"
+        },
+        {
+          "tag": "textarea",
+          "label": "Address",
+          "placeholder": "Placeholder",
+          "columns": "col-4",
+          "rows": 2,
+          "colSize": "form-control",
+          "type": "text",
+          "required": false
+        },
+        {
+          "tag": "radio",
+          "label": "Gender",
+          "inline": "form-check-inline",
+          "choices": [
+            "Male",
+            "Female"
+          ],
+          "required": false,
+          "checked": false
+        }
+      ],
+      "version": "143691c1ab83e2396cec42af9bd289ff2cdd465c"
+    },
+    {
+      "title": "Contact Form",
+      "description": "",
+      "grid": 3,
+      "fields": [
+        {
+          "tag": "input",
+          "label": "Name",
+          "placeholder": "Placeholder",
+          "columns": "col-4",
+          "colSize": "form-control",
+          "type": "text",
+          "required": false,
+          "icon": {
+            "span": "prefix",
+            "svg": null
+          },
+          "fontSize": "fs-5"
+        },
+        {
+          "tag": "radio",
+          "label": "Gender",
+          "inline": "form-check-inline",
+          "choices": [
+            "Male",
+            "Female"
+          ],
+          "required": false,
+          "checked": false
+        },
+        {
+          "tag": "textarea",
+          "label": "Address",
+          "placeholder": "Placeholder",
+          "columns": "col-4",
+          "rows": 2,
+          "colSize": "form-control",
+          "type": "text",
+          "required": false
+        }
+      ],
+      "version": "d3355fb04dd1248f47733f6ceca288a1fbe4117c"
+    },
+    {
+      "title": "Contact Form",
+      "description": "",
+      "grid": 1,
+      "fields": [
+        {
+          "tag": "input",
+          "label": "Full Name",
+          "placeholder": "Placeholder",
+          "columns": "col-4",
+          "colSize": "form-control",
+          "type": "text",
+          "required": false,
+          "icon": {
+            "span": "prefix",
+            "svg": null
+          },
+          "fontSize": "fs-5"
+        },
+        {
+          "tag": "textarea",
+          "label": "Address",
+          "placeholder": "Placeholder",
+          "columns": "col-4",
+          "rows": 2,
+          "colSize": "form-control",
+          "type": "text",
+          "required": false
+        },
+        {
+          "tag": "radio",
+          "label": "Gender",
+          "inline": "form-check-inline",
+          "choices": [
+            "Male",
+            "Female"
+          ],
+          "required": false,
+          "checked": false
+        }
+      ],
+      "version": "143691c1ab83e2396cec42af9bd289ff2cdd465c"
+    }
+  ],
+  "labels": [
+    "Full Name",
+    "Address",
+    "Gender",
+    "Name"
+  ],
+  "active": true,
+  "__v": 10
+}]
