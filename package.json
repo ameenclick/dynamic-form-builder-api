@@ -1,0 +1,18 @@
+{
+  "name": "FormDB",
+  "version": "1.0.0",
+  "description": "Express",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "author": "Ameen N A",
+  "license": "Cloud4c Services",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.0",
+    "nodemon": "^2.0.20",
+    "object-hash": "^3.0.0"
+  }
+}
